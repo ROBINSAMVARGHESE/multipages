@@ -1,0 +1,12 @@
+* {
+    background-color: rgb(226, 200, 53);
+    scroll-behavior: smooth;
+}
+
+.countriesbox {
+    padding: 10px; 
+    display: flex; 
+    flex-wrap: wrap; 
+    align-items: center; 
+    margin: 5px;
+}

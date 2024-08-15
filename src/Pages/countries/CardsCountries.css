@@ -1,0 +1,30 @@
+*{
+  gap: 1px;
+}
+.card {
+  border-radius: 2px;
+}
+
+.card-img {
+  height: 10rem;
+  object-fit: cover;
+}
+
+.card-body {
+  text-align: center;
+  border: 1px solid black;
+  width: 20rem;
+  height: 20rem;
+  border-bottom: 10rem;
+  border-top: 10rem;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.card-text {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
