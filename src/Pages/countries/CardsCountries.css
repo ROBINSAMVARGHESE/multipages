@@ -1,5 +1,5 @@
 *{
-  gap: 1px;
+ gap: 1px;
 }
 .card {
   border-radius: 2px;
@@ -15,8 +15,8 @@
   border: 1px solid black;
   width: 20rem;
   height: 20rem;
-  border-bottom: 10rem;
-  border-top: 10rem;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
 }
 
 .card-title {
